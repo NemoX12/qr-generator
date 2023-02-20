@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  background-color: cyan;
+  width: 500px;
+  margin-left: 370px;
+  margin-bottom: -2px;
+}
+
+#qr-container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: cyan;
+}
+
+#qr-text {
+  width: 70%;
+  padding: 5px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+#qr-generate {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+#qr-code {
+  margin-top: 20px;
+}
