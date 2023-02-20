@@ -16,3 +16,7 @@
 </br>
 
 ## Write any link or text and enjoy.
+
+</br>
+
+## Web URL: https://qr-generator-nemox.netlify.app/
